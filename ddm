@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Subindo o cartão de Dia dos Namorados"
+git branch -M main
+git remote add origin https://github.com/dudacarela/cartao-diadasmulheres.git
+git push -u origin main
